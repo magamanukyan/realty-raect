@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Center, Mashtots Str.",
+    "price": "187,043",
+    "detail": "A 4-room apartment is for sale on Mashtots Str.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Arabkir, Orbeli Str.",
+    "price": "166,353",
+    "detail": " A 5-room apartment is for sale on Arabkir, Orbeli Str.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Kanaker-Zeytun, Qanaqer 14 str.",
+    "price": "195,853",
+    "detail": "A 4-room apartment is for sale on Qanaqer 14 str.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Arabkir, Komitas ave.",
+    "price": "187,043",
+    "detail": " A 3-room apartment is for sale on Arabkir, Komitas ave.",
+    "image": "./1.jpg"
+  },
+  {
+    "name": "Davitashen, Davidashen 3 distr.",
+    "price": "66,353",
+    "detail": " A 2-room apartment is for sale onDavitashen, Davidashen 3 distr.",
+    "image": "./2.jpg"
+  },
+  {
+    "name": "Center, Moskovyan Str.",
+    "price": "95,853",
+    "detail": " A 4-room apartment is for sale onCenter, Moskovyan Str.",
+    "image": "./3.jpg"
+  }
+]
